@@ -1,0 +1,16 @@
+#INSTRUCTION
+
+To run the Food Price prediction app, use this code syntax below
+
+streamlit run app.py for unix OS
+         ''
+         ''
+         OR
+streamlit run app.py for windows x, where x>=7. 7<x<10
+
+For running cool demo and clearing cache, visit https://docs.streamlit.io/en/0.62.0/cli.html
+
+For streamlit installation, visit https://docs.streamlit.io/en/stable/troubleshooting/clean-install.html
+
+INSTRUCTION END
+#:-)
