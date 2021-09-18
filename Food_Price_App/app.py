@@ -4,9 +4,9 @@ import string
 #import xgboost
 import pickle
 import os
-filename = 'food_price.pkl'
+filename = './food_price.pkl'
 model =pickle.load(open(filename,'rb'))
-st.set_option('deprecation.showfileUploaderEncoding',False) 
+#st.set_option('deprecation.showfileUploaderEncoding',False) 
 #model = pickle.load(open('food_price.pkl','rb'))
 
 
