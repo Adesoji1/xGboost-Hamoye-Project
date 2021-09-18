@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import string
-#import xgboost
+import xgboost
 import pickle
 import os
 from pathlib import Path
